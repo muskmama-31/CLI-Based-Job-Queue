@@ -1,0 +1,6 @@
+com\queuectl\RetryManagerTest.class
+com\sabarish\RetryManagerTest.class
+com\queuectl\JobManagerTest.class
+com\queuectl\JobServiceTest.class
+com\sabarish\AppTest.class
+com\queuectl\DLQServiceTest.class
